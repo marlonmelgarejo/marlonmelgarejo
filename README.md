@@ -11,7 +11,7 @@
 ### Tecnologias utilizadas
   
  <div style="display: inline_block"><br>
-   <img align="center" alt="Marlon-Ansible" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg">
+   <img align="center" alt="Marlon-Ansible" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg">
    <img align="center" alt="Marlon-Azure" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg">
    <img align="center" alt="Marlon-Terraform" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/terraform/terraform-original.svg">
    <img align="center" alt="Marlon-vagrant" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vagrant/vagrant-original.svg">

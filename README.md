@@ -16,6 +16,7 @@
    <img align="center" alt="Marlon-Terraform" height="50" width="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/terraform/terraform-original-wordmark.svg">
    <img align="center" alt="Marlon-vagrant" height="95" width="95" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vagrant/vagrant-original-wordmark.svg">
    <img align="center" alt="Marlon-docker" height="55" width="55" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original-wordmark.svg">
+   <img align="center" alt="Marlon-k8s" height="55" width="55" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kubernetes/kubernetes-plain-wordmark.svg">
  </div>
  
 
